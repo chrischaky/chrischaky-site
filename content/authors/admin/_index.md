@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Government at Harvard University, where I study American politics and quantitative methods. My main research interests are criminal justice, urban and local politics, race, and public opinion.
+WEBSITE CURRENTLY UNDER CONSTRUCTION. I am a PhD Candidate in Government at Harvard University, where I study American politics and quantitative methods. My main research interests are criminal justice, urban and local politics, race, and public opinion.
