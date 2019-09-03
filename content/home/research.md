@@ -1,4 +1,5 @@
 +++
+# Research Widget
 widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -6,8 +7,6 @@ weight = 60  # Order that this section will appear.
 
 title = "Research"
 subtitle = ""
-
-# ... Put Your Section Options Here (title etc.) ...
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
