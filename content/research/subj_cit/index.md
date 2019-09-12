@@ -16,6 +16,7 @@ publishDate: ""
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
+abstract: Insert abstract here.
 
 links:
 - name: Custom Link
