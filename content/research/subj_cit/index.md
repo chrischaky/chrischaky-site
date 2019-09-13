@@ -19,16 +19,13 @@ publication_types: ["3"]
 abstract: A new survey shows that legal citizenship in the United States is neither necessary nor sufficient for subjective citizenship, defined as agreement that I am a full and equal citizen. This discrepancy motivates this paper. We theorize that the claim to American citizenship is associated with aspirational assertions that the United States grants its citizens an equal chance to succeed and equal political standing. The association between subjective citizenship and beliefs about whether the United States fulfills its political and social promises varies not only with legal status but also with location in hierarchies such as race or ethnicity, class, and class within race or ethnicity. Subjective citizenship is intrinsically important for a democratic polity. It also predicts political participation, and vote choice in the 2016 presidential election. Whites who do not identify as full and equal citizens were more likely to vote for Donald Trump, while Latinx voters who do not so identify were more likely to support Hillary Clinton.
 
 links:
-- name: Custom Link
-  url: http://example.org
-# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 ---
 
