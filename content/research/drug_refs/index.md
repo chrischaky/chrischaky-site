@@ -14,7 +14,7 @@ publishDate: ""
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
-abstract: How does exposure to the opioid crisis affect public opinion about criminal justice policy? Hopkins (2018) proposes that local conditions only become relevant for public opinion when the corresponding political issue is salient nationally. Following this politicized places framework, I argue that the opioid crisis in 2016 is a sufficiently salient national issue with high geographic variation, and I test how exposure to the opioid crisis is related to two criminal justice policy questions: mandatory minimum sentences for drug offenses and marijuana legalization.
+abstract: How does exposure to the opioid crisis affect public opinion about criminal justice policy? Hopkins (2018) proposes that local conditions only become relevant for public opinion when the corresponding political issue is salient nationally. Following this politicized places framework, I argue that the opioid crisis in 2016 is a sufficiently salient national issue with high geographic variation, and I test how exposure to the opioid crisis is related to two criminal justice policy questions\: mandatory minimum sentences for drug offenses and marijuana legalization.
 
 links:
 - name: Custom Link
