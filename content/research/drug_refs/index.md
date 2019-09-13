@@ -14,7 +14,7 @@ publishDate: ""
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
-abstract: How does exposure to the opioid crisis affect public opinion about criminal justice policy? 
+abstract: How does exposure to the opioid crisis affect public opinion about criminal justice policy? Hopkins (2018) proposes that local conditions only become relevant for public opinion when the corresponding political issue is salient nationally.
 
 links:
 - name: Custom Link
