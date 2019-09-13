@@ -23,7 +23,7 @@ links:
 # url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'apsa_poster_rev091319.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
