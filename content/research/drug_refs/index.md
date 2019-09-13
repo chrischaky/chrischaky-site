@@ -17,9 +17,6 @@ publication_types: ["3"]
 abstract: How does exposure to the opioid crisis affect public opinion about criminal justice policy? Hopkins (2018) proposes that local conditions only become relevant for public opinion when the corresponding political issue is salient nationally. Following this politicized places framework, I argue that the opioid crisis in 2016 is a sufficiently salient national issue with high geographic variation, and I test how exposure to the opioid crisis is related to two criminal justice policy questions":" mandatory minimum sentences for drug offenses and marijuana legalization. First, I find that increased exposure to the opioid crisis is associated with opposition to marijuana legalization in Massachusetts, but this relationship is likely confounded. Next, I find that county-level overdose rates are not related to preferences over drug policy in the Cooperative Congressional Election Study (CCES).
 
 links:
-- name: ''
-  url: ''
-# url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: 'apsa_poster_rev091319.pdf'
