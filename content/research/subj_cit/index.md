@@ -1,5 +1,5 @@
 ---
-title: "Subjective Citizenship, Beliefs about America, and Voting for Donald Trump (under review)"
+title: "Subjective Citizenship, Beliefs about America, and Voting for Donald Trump"
 authors:
 - admin
 - Jennifer Hochschild
