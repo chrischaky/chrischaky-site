@@ -19,7 +19,7 @@ abstract: During the period of prison expansion from the late 1970s to the 1990s
 links:
 url_code: ''
 url_dataset: ''
-url_pdf: 'bond_draft_mpsa_apr18.pdf'
+url_pdf: 'research/bond_refs/bond_draft_mpsa_apr18.pdf'
 url_poster: ''
 url_project: ''
 url_slides: 'mpsa_slides_bond_refs_apr2018.pdf'
