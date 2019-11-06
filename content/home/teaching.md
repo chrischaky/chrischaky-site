@@ -20,6 +20,8 @@ subtitle = ""
 
 +++
 
+Teaching Fellow:
+
 - American Government: A New Perspective
 - Research Practice in Qualitative Methods
 - Race, Ethnicity, and Immigration: From Obama to Trump
