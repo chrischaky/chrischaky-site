@@ -2,7 +2,7 @@
 title: "The Opioid Crisis and Drug Policy: Does Local Context Shape Public Opinion?"
 authors:
 - admin
-date: ""
+date: "September 13, 2019"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -2,7 +2,7 @@
 title: "Voting to Build Prisons: Exploring Support for Prison Construction Bond Referenda"
 authors:
 - admin
-date: ""
+date: "April 5, 2018"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
