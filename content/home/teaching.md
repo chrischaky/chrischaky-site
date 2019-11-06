@@ -1,22 +1,25 @@
 +++
-# Tag Cloud widget.
-widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 120  # Order that this section will appear.
+# Teaching
 
-title = "Popular Topics"
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
+
+title = "Teaching"
 subtitle = ""
 
-[content]
-  # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
-  taxonomy = "tags"
-  
-  # Choose how many tags you would like to display (0 = all tags)
-  count = 20
-
 [design]
-  # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min = 0.7
-  font_size_max = 2.0
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
+
 +++
+
+- American Government: A New Perspective
+- Research Practice in Qualitative Methods
+- Race, Ethnicity, and Immigration: From Obama to Trump
