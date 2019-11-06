@@ -4,11 +4,11 @@ authors:
 - admin
 - Jennifer Hochschild
 - Mara Roth
-date: "July 19, 2019"
+date: "2019-07-19"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "April 5, 2017"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
