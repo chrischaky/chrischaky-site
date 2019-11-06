@@ -8,8 +8,6 @@ title: Research
 #   4 = Citation
 view: 4
 
-order = "desc"
-
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
