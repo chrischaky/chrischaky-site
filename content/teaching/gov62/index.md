@@ -19,7 +19,13 @@ url_video: ''
 
 ---
 
-Slides:
+Role: Teaching Fellow, Spring 2019
+
+Course Head: George Soroka, Harvard University
+
+Course Description: The objectives of this course are to introduce students to the basic principles of good research design and familiarize them with the various qualitative tools that are available in the social sciences as they prepare to undertake original research for their senior thesis projects. Topics covered in Gov 62 include causal inference, comparative research design and selection bias, theoretical generalizability, and conceptualization and measurement. We also examine such methods as field and natural experiments, process tracing, archival research, interviews, and political ethnography. To better understand how to craft a good research design and how to most effectively utilize the methods covered in the course, for most of our meetings students read at least one empirical study that exemplifies the method or research design under discussion for that week. By the end of Gov 62, students produce a research prospectus that incorporates the lessons and tools covered in the course and combines several short papers they have written throughout the term. Students present this prospectus to the class at the end of the semester.
+
+Section Slides:
 
 - [Week 1: The Logic of Inference in the Social Sciences](slides_wk1.pdf)
 - [Week 2: Middle-Range Theory, Conceptualization, and Measurement](slides_wk2.pdf)
