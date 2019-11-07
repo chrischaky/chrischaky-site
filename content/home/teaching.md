@@ -23,5 +23,5 @@ subtitle = ""
 Teaching Fellow:
 
 - American Government: A New Perspective
-- Research Practice in Qualitative Methods
+- Research Practice in Qualitative Methods [(Slides)] (teaching/gov62/)
 - Race, Ethnicity, and Immigration: From Obama to Trump
