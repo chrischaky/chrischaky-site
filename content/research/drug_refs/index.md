@@ -19,6 +19,7 @@ abstract: How does exposure to the opioid crisis affect public opinion about cri
 links:
 url_code: ''
 url_dataset: ''
+url_pdf: 'draft_nov_2019.pdf'
 url_poster: 'apsa_poster_rev091319.pdf'
 url_project: ''
 url_slides: ''
