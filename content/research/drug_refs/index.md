@@ -14,7 +14,7 @@ publishDate: ""
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
-abstract: test
+abstract: How does exposure to the opioid crisis affect public opinion about criminal justice policy?
 
 links:
 url_code: ''
