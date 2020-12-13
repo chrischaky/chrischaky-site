@@ -18,12 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in Government at Harvard University, where I study American politics and quantitative methods. My main research interests are criminal justice, urban and local politics, race, and public opinion.
+bio: I am a PhD Candidate in Government at Harvard University, where I study American politics. My main research interests are public health, criminal justice, public opinion, and urban and local politics.
 
 interests:
 - American politics
+- Public health
+- Public opinion
 - Criminal justice
-- Race/ethnicity and public opinion
+- Urban and local politics
 
 education:
   courses:
@@ -74,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Government at Harvard University, where I study American politics and quantitative methods. My main research interests are criminal justice, urban and local politics, race, and public opinion.
+I am a PhD Candidate in Government at Harvard University, where I study American politics. My main research interests are public health, criminal justice, public opinion, and urban and local politics.
