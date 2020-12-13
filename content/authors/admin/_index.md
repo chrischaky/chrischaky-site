@@ -64,7 +64,7 @@ social:
 
 - icon: file-alt
   icon_pack: fas
-  link: files/resume.pdf
+  link: files/chaky_resume_dec20.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
