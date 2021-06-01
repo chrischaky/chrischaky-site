@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Government
+role: Ph.D. in Government
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in Government at Harvard University, where I study American politics. My main research interests are public health, criminal justice, public opinion, and urban and local politics.
+bio: I recently completed my Ph.D. in Government at Harvard University, where I studied American politics. My main research interests are public health, criminal justice, public opinion, and urban and local politics.
 
 interests:
 - American politics
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Government
     institution: Harvard University
-    year: Expected 2021
+    year: 2021
   - course: MA in Government
     institution: Harvard University
     year: 2017
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:chaky@g.harvard.edu".
+  link: '#contact'  # For a direct email link, use "mailto:chrischaky@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chrischaky
@@ -64,7 +64,7 @@ social:
 
 - icon: file-alt
   icon_pack: fas
-  link: files/chaky_resume_dec20.pdf
+  link: files/chaky_resume_jun21.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
