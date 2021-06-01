@@ -1,5 +1,5 @@
 ---
-title: "The Opioid Crisis and Support for Marijuana Legalization"
+title: "Stigma and Attribution in the Opioid Crisis"
 authors:
 - admin
 date: "2021-06-01"
@@ -19,7 +19,7 @@ abstract:
 links:
 url_code: ''
 url_dataset: ''
-url_pdf: 'research/ma_ref/ma_ref_jun21.pdf'
+url_pdf: 'research/opioid_attrib/opioid_attrib_jun21.pdf'
 url_poster: ''
 url_project: ''
 url_slides: ''
