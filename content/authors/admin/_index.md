@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Government at Harvard University, where I study American politics. My main research interests are public health, criminal justice, public opinion, and urban and local politics.
+I recently completed my Ph.D. in Government at Harvard University, where I studied American politics. My main research interests are public health, criminal justice, public opinion, and urban and local politics.
